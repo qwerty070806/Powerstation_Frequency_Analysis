@@ -15,3 +15,19 @@ A Python-based data analysis and forecasting project focused on studying the sta
 - 📅 Compared frequency behavior between weekdays and weekends
 - 📉 Implemented ARIMA and SARIMAX models for frequency forecasting
 - 📊 Evaluated forecasting models using RMSE and visual residual analysis
+
+
+## 🧠 Technologies Used
+
+- **Python** (Pandas, Matplotlib, Seaborn)
+- **Time Series Modeling**: Statsmodels (ARIMA, SARIMAX), pmdarima
+- **Jupyter Notebook** for exploratory analysis and model development
+
+---
+
+## 📌 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/qwerty070806/Powerstation_Frequency_Analysis.git
+   cd Powerstation_Frequency_Analysis
